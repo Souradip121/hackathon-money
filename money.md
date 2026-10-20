@@ -37,7 +37,7 @@ Often the bigger prize is the interview. That's on the [PPI page](ppi.md).
 |---|---|---|
 | [hackCBS 9.0](https://hackcbs.tech/), SSCBS, Delhi University | Cash for the top 3 teams (amounts not announced yet) + special-category prizes | 31 Oct – 1 Nov 2026, in person. Teams of 2–4. Beginners welcome |
 | [Devcon 8](https://devcon.org/) + [ETHIndia](https://ethindia.co/), Jio World Centre, Mumbai | A conference, not a hackathon. Go to meet sponsors. Indian student ticket: $25 (you apply, limited seats) | Devcon: 3–6 Nov. ETHIndia: 4 Nov, as a one-day conference inside Devcon |
-| [ETHGlobal Mumbai](https://ethglobal.com/events/mumbai) | Sponsor bounties: 12 sponsor prizes listed so far, $1,500–$15,000 each | 5–7 Nov 2026, in person. You apply to get in |
+| [ETHGlobal Mumbai](https://ethglobal.com/events/mumbai) | Sponsor bounties: 12 sponsor prizes listed so far, $1,500–$15,000 each | 5–7 Nov 2026, in person. **Applications closed 23 Oct** (11:59 PM IST) |
 | [TCS CodeVita Season 14](https://codevita.tcsapps.com/) | USD 20,000 shared by the top 3 coders. Solo, free | Register by 13 Nov. MockVita 1: 23–24 Oct. MockVita 2: 13–14 Nov. Pre-qualifier: 11–12 Dec |
 | [Bharat Agentic-AI Hackathon 2026](https://codeforindia.org/hackathon) | ₹1.5 lakh (1st), ₹1 lakh (2nd), ₹50,000 (3rd) **in each track**. ₹18 lakh total | Submit by 15 Nov. Winners on 5 Dec |
 | [Smart India Hackathon 2026](https://sih.gov.in/) | ₹1.5 lakh per problem statement | Grand Finale planned for Dec 2026 (dates not out yet). Only shortlisted teams go |
@@ -45,7 +45,7 @@ Often the bigger prize is the interview. That's on the [PPI page](ppi.md).
 
 **Notes:**
 
-- **hackCBS:** I took these dates from its Internshala listing. The official site just says Oct–Nov 2026.
+- **hackCBS:** 31 Oct & 1 Nov 2026 is on the official site (hackcbs.tech FAQ).
 - **Bharat Agentic-AI:** the theme is open-source digital public goods for India's health. There are 10 impact areas (health, education, clean water and more). You pick one and define your own problem. Solo or team, and anyone can enter. Your project must be deployed on any cloud and open-sourced under MIT or Apache-2.0 by 15 Nov. There are also sponsor awards and a fast track to Code for India's incubation for the best projects.
 - **CodeVita:** I took these dates from the Internshala listing. The official site didn't show dates when I checked, so confirm after you log in.
 - **SIH:** the problem-statement organisation pays the prize only if it likes the winning idea. Full details on the [SIH Finale Kit](sih.md).
@@ -105,7 +105,7 @@ This is when each program usually opens. Most 2026 rounds are over, so set remin
 | Program | What the winners get | Last cycle |
 |---|---|---|
 | [hackCBS](https://hackcbs.tech/) | Cash prizes (amounts not announced yet) | 31 Oct – 1 Nov 2026 (**live now**) |
-| [ETHGlobal Mumbai](https://ethglobal.com/events/mumbai) | Sponsor bounties | 5–7 Nov 2026 (**live now**) |
+| [ETHGlobal Mumbai](https://ethglobal.com/events/mumbai) | Sponsor bounties | 5–7 Nov 2026 (applications closed 23 Oct) |
 | [Devcon 8](https://tickets.devcon.org/) | A conference. Go for contacts, not cash | 3–6 Nov 2026 |
 
 ## Where I track new cycles

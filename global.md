@@ -26,7 +26,7 @@ Same rule as always: the prize goes to the **team**. $100,000 ÷ 4 = $25,000 eac
 
 ## ETHGlobal (Mumbai + online)
 
-- **ETHGlobal Mumbai:** **5–7 Nov 2026**, in person. You apply to get in.
+- **ETHGlobal Mumbai:** **5–7 Nov 2026**, in person. Applications closed **Fri 23 Oct, 11:59 PM IST**. Missed it? Watch the events page for the next ETHGlobal hackathon, and look for Mumbai side events during Devcon week.
 - **Prizes:** sponsor bounties. 12 sponsor prizes were on the prizes page when I checked, $1,500 to $15,000 each.
 - **Online:** ETHOnline 2026 ran 4–16 Sep. No online ETHGlobal hackathon was listed for Nov–Feb when I checked, so keep an eye on the events page.
 - **Official:** [ETHGlobal Mumbai](https://ethglobal.com/events/mumbai) · [All ETHGlobal events](https://ethglobal.com/events)

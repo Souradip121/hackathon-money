@@ -17,9 +17,9 @@ I checked all of these on 20 Oct 2026. Most 2026 rounds are over, so use this to
 | Amazon ML Challenge | Sep | PPIs for the top 50 teams |
 | Amex CodeStreet | Jul–Aug | PPIs for the top 2 teams |
 | Flipkart GRiD | Jun–Jul | Interviews for jobs and internships |
-| BNY Code Divas | Feb–Mar | Direct interviews (women only) |
+| BNY Code Divas | Feb–Mar | A shot at the interview process (women only) |
 | Tata Steel AI | May | Joining bonus + job offers |
-| Adobe University Hackathon | Jul–Aug | PPI + internship for the top 50 |
+| Adobe University Hackathon | Jul–Aug | A chance at a PPI + internship (top 50) |
 | TCS CodeVita | Registration open now | Cash; past seasons led to TCS interviews |
 | HackOn with Amazon | May | PPIs for top performers |
 
@@ -52,7 +52,7 @@ I checked all of these on 20 Oct 2026. Most 2026 rounds are over, so use this to
 
 - **Usually:** February–March. The 2026 cycle ran 27 Feb – 31 Mar.
 - **Who can enter:** listings for 2026 asked for women in final year (2026 batch) of B.E./B.Tech in CS, IT or circuit branches, with 7+ CGPA and no backlogs. Solo.
-- **Leads to:** top performers may go **straight to interviews** for the Software Engineer role. The 2026 role (Early Talent Analyst Trainee) was listed at ₹22 LPA total CTC.
+- **Leads to:** in BNY's own words, top performers "stand a chance to secure a spot in our interview process". So it's a shot at interviews, not a guaranteed one. The 2026 role (Early Talent Analyst Trainee) was listed at ₹22 LPA total CTC.
 - **Official:** [Code Divas on Mercer Mettl](https://xathon.mettl.com/event/BNYCodeDivas)
 - **Prep tip:** Practise timed DSA rounds on a proctored platform, so the setup doesn't throw you on test day.
 
@@ -68,7 +68,7 @@ I checked all of these on 20 Oct 2026. Most 2026 rounds are over, so use this to
 
 - **Usually:** July–August. In 2026, registration closed 8 Aug and the finale ran 10–15 Oct.
 - **Who can enter:** engineering UG and PG students, any year. Teams of 2–3, all from the same college. **Only the 2028 batch** can get the internship PPIs.
-- **Leads to:** the **top 50 participants** get a PPI and a shot at an internship paying ₹1,10,000 a month. Each member of the winning team gets a MacBook Pro.
+- **Leads to:** the **top 50 participants** "stand a chance" at a PPI and an internship paying ₹1,10,000 a month (Adobe's wording, so it isn't guaranteed). Each member of the winning team gets a MacBook Pro.
 - **Official:** [Adobe University Hackathon 2026 on Unstop](https://unstop.com/hackathons/crp-adobe-university-hackathon-2026-adobe-1715333)
 - **Prep tip:** Round 1 is 15 MCQs and 2 coding questions in one hour. Speed matters, so practise against a timer.
 
