@@ -14,8 +14,10 @@ These are the guides I DM when you comment a keyword. Pick yours 👇
 | PPI | [Prize = an interview](ppi.md) | 8 programs that lead to interviews, plus a winter prep plan |
 | SIH | [SIH Finale Kit](sih.md) | Pitch, judge questions, 36-hour plan, packing list |
 | GLOBAL | [Dollar-prize competitions](global.md) | Imagine Cup, ETHGlobal, Colosseum, bounties |
+| PITCH | [3-Minute Pitch Kit](pitch.md) | Pitch template, judge questions, sponsor-prize checklist |
+| HACK | [5 Hackathon Tools](hack.md) | Claude Code, v0, Supabase, Vercel, OpenScreen: links and how to use them |
 
-Last checked: 20 Oct 2026.
+Last checked: 20 Oct 2026 (PITCH and HACK: 26 Oct 2026).
 
 ---
 
