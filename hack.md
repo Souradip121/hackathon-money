@@ -63,6 +63,18 @@ Your live demo might crash in front of the judges. Venue Wi-Fi dies, an API rate
 - Keep the video on your laptop and your phone, offline.
 - **The 10-second rule:** if the live demo stalls for 10 seconds, switch to the recording calmly. Never debug in front of the judges.
 
+## The week before your hackathon
+
+Your hackathon starts a week before the actual hackathon. You can't write the project code early, but you can do everything else:
+
+- [ ] Think about the idea, and play with any open-source library you might use.
+- [ ] Read every sponsor track and the judging criteria (how to use them: [Match the judging criteria](criteria.md)).
+- [ ] Brainstorm the idea with your team.
+- [ ] Create every account and API key you'll need (the 5 tools above).
+- [ ] Divide the roles: builder, designer, presenter ([Team role checklist](team.md)).
+
+The actual hackathon hours should go into building, not arguing and signing up.
+
 ## The 30-second setup checklist
 
 - [ ] Claude Code installed and logged in before the event starts
