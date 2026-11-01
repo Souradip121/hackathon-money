@@ -23,6 +23,7 @@ These are the guides I DM when you comment a keyword. Pick yours 👇
 | SKILLS | [Skills by Vercel Labs](skills.md) | find-skills and the skills to install before a hackathon |
 | REPO (memory reel) | [Buzz](buzz.md) | Record mentor feedback and ask your team's AI agent what to fix |
 | LINK | [5 GitHub URL Hacks](github-hacks.md) | deepwiki, press T, one-folder download, star history, free CDN |
+| API | [How Comment-to-DM Works](api.md) | Webhook, keyword check, private reply: how that DM reached you |
 
 Last checked: 20 Oct 2026 (PITCH and HACK: 26 Oct 2026; the rest: 27 Oct 2026).
 
