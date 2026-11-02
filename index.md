@@ -24,8 +24,12 @@ These are the guides I DM when you comment a keyword. Pick yours 👇
 | REPO (memory reel) | [Buzz](buzz.md) | Record mentor feedback and ask your team's AI agent what to fix |
 | LINK | [5 GitHub URL Hacks](github-hacks.md) | deepwiki, press T, one-folder download, star history, free CDN |
 | API | [How Comment-to-DM Works](api.md) | Webhook, keyword check, private reply: how that DM reached you |
+| COURSES | [7 Free Courses Your Syllabus Skips](courses.md) | MIT, Berkeley, CMU, Google, Karpathy, in the order I'd do them |
+| REPO (paid-tools carousel) | [7 GitHub Repos That Replace Paid Tools](repos.md) | Hoppscotch, Penpot, Plane, Formbricks, Uptime Kuma, Excalidraw, Dokploy, with setup |
+| LINK (hackathon-sites carousel) | [11 Hackathon Sites](sites.md) | lablab.ai, ETHGlobal, DoraHacks, Superteam Earn, Kaggle, TAIKAI + the 5 classics |
+| HIRED | [Resume Template: Wins Above Grades](resume.md) | One-page template, noob vs pro line by line, the pre-send checklist |
 
-Last checked: 20 Oct 2026 (PITCH and HACK: 26 Oct 2026; the rest: 27 Oct 2026).
+Last checked: 20 Oct 2026 (PITCH and HACK: 26 Oct 2026; TEAM to LINK: 27 Oct 2026; COURSES, REPO, LINK sites and HIRED: 2 Nov 2026).
 
 ---
 
