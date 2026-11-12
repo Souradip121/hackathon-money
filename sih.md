@@ -8,9 +8,11 @@ I won SIH 2024, and I've mentored or judged at nine hackathons. Same lesson ever
 
 Here's everything I'd hand a shortlisted team.
 
-## SIH 2026 basics (checked 20 Oct 2026)
+## SIH 2026 basics (rechecked 12 Nov 2026)
 
-- **Finale:** offline, at nodal centres across India. Planned for **December 2026**. Exact dates aren't out yet, so watch [sih.gov.in](https://sih.gov.in/).
+- **Finale:** offline, at nodal centres across India, expected in **December 2026**. As of 12 Nov, sih.gov.in shows **no finale dates, no nodal-centre list and no shortlist yet**, so watch [sih.gov.in](https://sih.gov.in/) and your college SPOC. (For scale: SIH 2025's finale started on 8 Dec 2025 at 60 nodal centres.)
+- **Idea round:** the main deadline was extended to 9 Oct. Problem statements added later closed on 20 Oct and 2 Nov. Some colleges have posted their internal nomination lists, but that's not the national shortlist.
+- **Watch out:** SIH has posted a fraud warning. It doesn't take money from participants or SPOCs, so ignore anyone asking you to pay to be shortlisted.
 - **Format:** the 2025 software finale ran **36 hours non-stop**. Confirm the 2026 format for your centre.
 - **Team:** 6 students from the same college, with at least one woman. Up to 2 mentors can come too.
 - **Prize:** **₹1.5 lakh per problem statement** (2026 guidelines). That's ₹25,000 each for 6. In 2024 it was ₹1 lakh, about ₹16,700 each.

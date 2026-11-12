@@ -6,7 +6,7 @@ title: Hackathon Money Calendar
 
 Here's the calendar I promised. Every program here pays cash, gets you an interview, or gets you an internship.
 
-I checked each one on **20 Oct 2026**, on the official page wherever it loaded. When a detail only came from a listing, I say so. Tap a program's name to open its official page.
+I checked each one on **20 Oct 2026**, on the official page wherever it loaded (Imagine Cup, Girls Wanna Code and WiSE@TI rechecked 12 Nov). For 2027 month by month, see the [2027 hackathon calendar](calendar.md). When a detail only came from a listing, I say so. Tap a program's name to open its official page.
 
 > **Here from the ₹18 lakh reel?**
 >
@@ -41,7 +41,7 @@ Often the bigger prize is the interview. That's on the [PPI page](ppi.md).
 | [TCS CodeVita Season 14](https://codevita.tcsapps.com/) | USD 20,000 shared by the top 3 coders. Solo, free | Register by 13 Nov. MockVita 1: 23–24 Oct. MockVita 2: 13–14 Nov. Pre-qualifier: 11–12 Dec |
 | [Bharat Agentic-AI Hackathon 2026](https://codeforindia.org/hackathon) | ₹1.5 lakh (1st), ₹1 lakh (2nd), ₹50,000 (3rd) **in each track**. ₹18 lakh total | Submit by 15 Nov. Winners on 5 Dec |
 | [Smart India Hackathon 2026](https://sih.gov.in/) | ₹1.5 lakh per problem statement | Grand Finale planned for Dec 2026 (dates not out yet). Only shortlisted teams go |
-| [Microsoft Imagine Cup 2027](https://imaginecup.microsoft.com/) | $100,000 to the Scale-track World Champion + a mentorship session with Satya Nadella. $50,000 for the Launch track | Deadline listed as 8 Jan 2027. The official site still said "Coming Soon" on 20 Oct |
+| [Microsoft Imagine Cup 2027](https://imaginecup.microsoft.com/en-us/compete) | **Changed:** now a startup competition. $250,000 + $1M in credits to the Champion, $25,000 + $250,000 in credits to the top student startup | Open now, closes **28 Feb 2027** (checked 12 Nov). Your startup must be a registered company |
 
 **Notes:**
 
@@ -49,7 +49,7 @@ Often the bigger prize is the interview. That's on the [PPI page](ppi.md).
 - **Bharat Agentic-AI:** the theme is open-source digital public goods for India's health. There are 10 impact areas (health, education, clean water and more). You pick one and define your own problem. Solo or team, and anyone can enter. Your project must be deployed on any cloud and open-sourced under MIT or Apache-2.0 by 15 Nov. There are also sponsor awards and a fast track to Code for India's incubation for the best projects.
 - **CodeVita:** I took these dates from the Internshala listing. The official site didn't show dates when I checked, so confirm after you log in.
 - **SIH:** the problem-statement organisation pays the prize only if it likes the winning idea. Full details on the [SIH Finale Kit](sih.md).
-- **Imagine Cup:** official pages say 18+, enrolled students, teams of up to 4, and up to $5,000 in Azure credits after you register. $100,000 ÷ 4 = $25,000 each.
+- **Imagine Cup:** rechecked 12 Nov 2026. Founders don't need to be students any more, and the startup must be a registered legal entity founded on or after 2 Nov 2024.
 
 ## The full year, month by month
 
@@ -59,9 +59,8 @@ This is when each program usually opens. Most 2026 rounds are over, so set remin
 
 | Program | What the winners get | Last cycle |
 |---|---|---|
-| [Flipkart Girls Wanna Code](https://mycareernet.co/mycareernet/contests/Flipkart-Girls-Wanna-Code-266) | Women only. Flipkart calls it an upskilling program. Listings say it leads to internships and interviews | Applications closed 15 Jan 2026 |
-| [Google Girl Hackathon](https://buildyourfuture.withgoogle.com/programs/girl-hackathon/) | Women only. Rewards change each year, so check the official page | 2025 edition ran Jan–Mar |
-| [Imagine Cup](https://imaginecup.microsoft.com/) | $100,000 / $50,000 (see above) | Deadline listed as 8 Jan 2027 |
+| [Flipkart Girls Wanna Code](https://mycareernet.co/mycareernet/contests/Flipkart-Girls-Wanna-Code-266) | Women only. Flipkart offers the whole cohort an SDE-1 internship interview after the final assessment | 7.0 ran 22 Dec 2025 – 20 Jan 2026. 8.0 isn't listed yet |
+| [Imagine Cup](https://imaginecup.microsoft.com/en-us/compete) | Now a startup competition (see above) | Closes 28 Feb 2027 |
 
 ### February – March
 
@@ -75,7 +74,7 @@ This is when each program usually opens. Most 2026 rounds are over, so set remin
 
 | Program | What the winners get | Last cycle |
 |---|---|---|
-| [WiSE@TI Hackathon (Texas Instruments)](https://mycareernet.co/mycareernet/contests/Texas-Instruments-WiSE-TI-Hackathon-for-Wome-277) | ₹3 lakh in cash prizes + possible TI internships. For women in the second year of a bachelor's (2026 cycle: 2028 batch) | Registration 5–29 Apr 2026 |
+| [WiSE@TI Hackathon (Texas Instruments)](https://mycareernet.co/mycareernet/contests/Texas-Instruments-WiSE-TI-Hackathon-for-Wome-277) | A chance to intern at TI India (the 2026 official page lists no cash prize). For women in the second year of a bachelor's (2026 cycle: 2028 batch) | Registration 5–29 Apr 2026 |
 | [Colosseum (Solana)](https://www.colosseum.com/) | Frontier 2026: $30,000 to the grand champion, $10,000 each to the next 20 | 6 Apr – 11 May 2026 |
 | [HackOn with Amazon](https://unstop.com/hackathons/crp-hackon-with-amazon-60-amazon-1682652) | ₹1,00,000 to the winner (₹75,000 and ₹50,000 for the runners-up) + interviews (PPIs) for top performers. The 100-minute coding round comes first | Registration closed 28 May 2026 |
 | [Tata Steel AI Hackathon](https://www.hackerearth.com/community/challenges/competitive/tata-steel-ai-hackathon/) | Listings say a ₹1 lakh joining bonus for the top 3 and up to 20 job offers | 22–31 May 2026, solo |

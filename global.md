@@ -10,12 +10,12 @@ Same rule as always: the prize goes to the **team**. $100,000 ÷ 4 = $25,000 eac
 
 ## Microsoft Imagine Cup 2027
 
-- **Prizes:** **$100,000** to the Scale-track World Champion, plus a private mentorship session with Satya Nadella. **$50,000** for the Launch-track winner.
-- **Which track:** Scale is for teams that already have users, revenue or funding (up to $5M). Launch is for early teams with no equity funding. Most student teams start in Launch.
-- **Credits:** up to $5,000 in Azure credits after you register, to build your MVP.
-- **Who:** enrolled students aged 18+. Teams of up to 4, and every member registers.
-- **Deadline:** listed as **8 Jan 2027** for registration and submission. The official site still said "Imagine Cup 2027 – Coming Soon" when I checked, so confirm there.
-- **Official:** [imaginecup.microsoft.com](https://imaginecup.microsoft.com/)
+**Changed (checked 12 Nov 2026):** Imagine Cup 2027 is now a **startup competition**, and the Scale/Launch tracks are gone.
+
+- **Prizes:** the Champion gets **$250,000 + $1M in startup credits**. The top student startup gets **$25,000 + $250,000 in credits**.
+- **Who:** founders don't need to be students, but the startup must be a registered legal entity founded on or after 2 Nov 2024.
+- **Deadline:** applications opened 2 Nov 2026 and close **28 Feb 2027**. Then expert review (1–12 Mar), live interviews (16–31 Mar), final judging in April and the World Championship in May–June.
+- **Official:** [imaginecup.microsoft.com](https://imaginecup.microsoft.com/en-us/compete) · [FAQ](https://imaginecup.microsoft.com/en-us/support/faq)
 
 ## Google Solution Challenge
 
