@@ -32,8 +32,11 @@ These are the guides I DM when you comment a keyword. Pick yours 👇
 | CALENDAR | [The 2027 Hackathon Calendar](calendar.md) | When every big one opens, with last year's exact dates and links |
 | BUNK | [Bunk calculator](https://souradip121.github.io/bunk/) | How many classes you can still skip at 75% |
 | HIRED | [Resume Template: Wins Above Grades](resume.md) | One-page template, noob vs pro line by line, the pre-send checklist |
+| PROMPT | [Win a Hackathon in 30 Seconds: The Prompts](prompts.md) | Idea (Gemini Deep Research), build (vibe coding), present (Gamma or Canva) |
+| LINK (GitHub URL reel) | [5 GitHub URL Tricks](github-urls.md) | gitmcp, gitingest, gitdiagram, githubbox, github.dev |
+| CLAUDE | [Win Your Next Hackathon With Claude](claude-prompts.md) | Research, tech stack and deck prompts, plus the free route |
 
-Last checked: 20 Oct 2026 (PITCH and HACK: 26 Oct 2026; TEAM to LINK: 27 Oct 2026; COURSES, REPO, LINK sites and HIRED: 2 Nov 2026; open-now, WOMEN, CALENDAR, PPI Part 2 and SIH: 12 Nov 2026).
+Last checked: 20 Oct 2026 (PITCH and HACK: 26 Oct 2026; TEAM to LINK: 27 Oct 2026; COURSES, REPO, LINK sites and HIRED: 2 Nov 2026; open-now, WOMEN, CALENDAR, PPI Part 2, SIH, PROMPT, GitHub URLs and CLAUDE: 12 Nov 2026).
 
 ---
 
