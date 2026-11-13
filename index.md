@@ -35,8 +35,13 @@ These are the guides I DM when you comment a keyword. Pick yours 👇
 | PROMPT | [Win a Hackathon in 30 Seconds: The Prompts](prompts.md) | Idea (Gemini Deep Research), build (vibe coding), present (Gamma or Canva) |
 | LINK (GitHub URL reel) | [5 GitHub URL Tricks](github-urls.md) | gitmcp, gitingest, gitdiagram, githubbox, github.dev |
 | CLAUDE | [Win Your Next Hackathon With Claude](claude-prompts.md) | Research, tech stack and deck prompts, plus the free route |
+| SYLLABUS | [12 Free Courses Better Than Most Paid Ones](syllabus.md) | CS50, Odin, freeCodeCamp, Full Stack Open, Striver, NeetCode, MIT OCW, NPTEL, Kaggle Learn, fast.ai, OSSU, in the order I'd do them |
+| 2026 | [College in 2025 vs 2026](college-2026.md) | Study Mode, Gemini Notebook (NotebookLM), Gemini, Cursor, Nano Banana: what each one is for |
+| TOOLS | [12 Tools Your Friend Group Should Know](tools.md) | NotebookLM to Suno: what each does and whether it's free |
+| COLLEGE | [AI Tools for Every Part of College](college.md) | Doubts, assignments, coding, PPTs and posters, exam night |
+| JARVIS | [Build JARVIS in Your Hostel Room](jarvis.md) | The parts list, how it connects, and the safe way to switch a light |
 
-Last checked: 20 Oct 2026 (PITCH and HACK: 26 Oct 2026; TEAM to LINK: 27 Oct 2026; COURSES, REPO, LINK sites and HIRED: 2 Nov 2026; open-now, WOMEN, CALENDAR, PPI Part 2, SIH, PROMPT, GitHub URLs and CLAUDE: 12 Nov 2026).
+Last checked: 20 Oct 2026 (PITCH and HACK: 26 Oct 2026; TEAM to LINK: 27 Oct 2026; COURSES, REPO, LINK sites and HIRED: 2 Nov 2026; open-now, WOMEN, CALENDAR, PPI Part 2, SIH, PROMPT, GitHub URLs and CLAUDE: 12 Nov 2026; SYLLABUS, 2026, TOOLS, COLLEGE and JARVIS: 13 Nov 2026).
 
 ---
 
